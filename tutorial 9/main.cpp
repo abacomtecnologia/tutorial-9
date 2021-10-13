@@ -1,5 +1,5 @@
 //**************************************//
-// Tutorial 9 - Github   				//
+// Tutorial 9 - Github v1.0 			//
 //**************************************//
 #include <iostream>
 using namespace std;
